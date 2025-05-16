@@ -1,0 +1,36 @@
+Week 3: Level of Details – Energy Consumption Trend Analysis
+This page provides a granular view of the energy consumption data at the building and monthly level, along with AI-driven insights to uncover influential patterns.
+
+🔍 Components:
+🧾 Data Table:
+Breakdown by: Country, City, Building, Year, Quarter, and Month.
+
+Metrics Displayed:
+
+Sum of Electricity Consumption
+
+Sum of Gas Consumption
+
+Sum of Water Consumption
+
+Example Highlight: Building B1004 in Chicago (2016) shows varied monthly consumption across all three utilities, with water consumption significantly dominating.
+
+🤖 AI Visual: Key Influencers
+Focus: What influences the Energy Type to be Water.
+
+Insight: When the Price Per Unit decreases by 0.55 or more, the likelihood of energy type being Water increases by 9.82x.
+
+Helps decision-makers understand price sensitivity for water usage patterns.
+
+🧱 Treemap: Sum of Price Per Unit by Energy Type
+Visually represents the distribution of unit prices across Gas, Electricity, and Water.
+
+Gas occupies the largest share, indicating higher cost per unit, while Water has the lowest.
+
+📌 Insight Summary:
+Water consumption is massive but typically has a lower price per unit.
+
+Pricing plays a significant role in identifying energy type classification.
+
+This level of detail helps in identifying monthly trends and their financial implications.
+
